@@ -1,0 +1,37 @@
+/* Navbar */
+.navbar-brand {
+    font-weight: bold;
+  }
+  .nav-link {
+    color: #fff;
+    margin-right: 1rem;
+  }
+  
+  /* Header / Carousel */
+  .carousel .carousel-caption h5 {
+    font-size: 2rem;
+  }
+  .carousel .carousel-caption p {
+    font-size: 1.2rem;
+  }
+  
+  /* Services */
+  .card {
+    transition: transform 0.3s ease;
+  }
+  .card:hover {
+    transform: translateY(-5px);
+  }
+  
+  /* Team */
+  #team img {
+    width: 150px;
+    height: 150px;
+    margin-bottom: 1rem;
+  }
+  
+  /* Footer */
+  footer p {
+    margin: 0;
+  }
+  
